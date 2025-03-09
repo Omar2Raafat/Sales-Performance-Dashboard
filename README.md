@@ -31,7 +31,8 @@ The dataset contains transaction-level sales data, including:
 - **Product Information:** Product Name, Category, Price  
 - **Sales Metrics:** Total Sales, Profit, Revenue  
 
-🔗 **Access the dataset here:** [Sales Data.xlsx](https://github.com/Omar2Raafat/Sales-Performance-Dashboard/blob/main/assignment%203.xlsx)  
+🔗 **Access the dataset here:** [Sales Data.xlsx](https://github.com/Omar2Raafat/Sales-Performance-Dashboard/blob/main/Apocolypse%20Food%20Prep%20(1).xlsx) 
+📥 **Download the dataset form here:**[Download Data.xlsx](https://github.com/Omar2Raafat/Sales-Performance-Dashboard/raw/main/Apocolypse%20Food%20Prep%20(1).xlsx)
 
 ---
 
